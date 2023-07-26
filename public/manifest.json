@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Asone 회의실 예약",
+  "name": "Asone 회의실 예약",
   "icons": [
     {
       "src": "favicon.ico",
